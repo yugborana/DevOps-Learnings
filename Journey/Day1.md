@@ -48,9 +48,17 @@
    - `rwxd`   --> Read, write, execute, delete 
  - `ls -al`   --> Combining above two commands (Hidden Files + Details)
  - `clear`    --> To clean the terminal
- - `#<-->`    --> Add a comment
+ - `#<Any Word>`    --> Add a comment
  - `mkdir`    --> To create a new directory
- - `cat<file>`--> To see whats inside a file quickly
+ - `mkdir -p` --> To create a sub-directory in a new directory
+ - `rmdir`    --> To remove a directory
+ - `cat<file name>`--> To see whats inside a file quickly
  - `history`  --> To see all the previous commands if terminal is cleared
  - `touch`    --> To create a new file
  - `rm`       --> To remove a file
+ - `rm -r`    --> Recursively removing the files and then a directory
+ - `rm -rv`   --> Removes same as above command but also tells(verbose) about the things removed
+ - `mv`       --> To move a file from one to another directory
+ - `find ~ .name <File Name>`   --> Give the whole path of the file (Use `*` if extension or name not known)
+ - `man <Command Name>`   --> Give information of flags related to the command written
+ - `whatis <Command Name> `   --> Give info about the command written
