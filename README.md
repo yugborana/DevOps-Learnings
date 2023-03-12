@@ -12,5 +12,5 @@
 
 ### Linux Basics
 
-- 🐧 1 > [Understanding Linux-Basics] (https://github.com/yugborana/DevOps-Learnings/blob/main/Journey/Day1.md)
+- 🐧 1 > [Understanding Linux-Basics](https://github.com/yugborana/DevOps-Learnings/blob/main/Journey/Day1.md)
 - 
