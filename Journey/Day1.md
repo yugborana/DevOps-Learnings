@@ -33,9 +33,9 @@
   - Most of the shells use Bash Programming Language. 
 
 # Basic Linux Commands
- 
+ - `echo`     --> Used to display values and variables in a shell
  - `pwd`      --> Print working directory or current directory
- - `cd`       --> Changing the directory/folder
+ - `cd folder_name/`       --> Changing the directory/folder
  - `cd -`     --> To go to previous directory
  - `cd ..`    --> To go to parent directory
  - Relative Path:
