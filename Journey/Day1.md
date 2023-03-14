@@ -55,6 +55,7 @@
  - `cat<file name>`--> To see whats inside a file quickly
  - `history`  --> To see all the previous commands if terminal is cleared
  - `touch`    --> To create a new file
+ - `gedit`    --> To open a file
  - `rm`       --> To remove a file
  - `rm -r`    --> Recursively removing the files and then a directory
  - `rm -rv`   --> Removes same as above command but also tells(verbose) about the things removed
