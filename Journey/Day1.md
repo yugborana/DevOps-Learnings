@@ -1,5 +1,6 @@
-# Resource- 
+# Resources
  - [Apoorv Goyal Linux Masterclass](https://www.youtube.com/watch?v=nRpmRDm-QrQ&list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+ - [Michael Cade 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022.md) 
 # Understanding Linux Basics
 
 - What is an OS?
